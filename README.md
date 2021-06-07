@@ -58,7 +58,7 @@ Your selection:
 * You can add as much filters as you want, there are no limitations.
 
 ## Documentation
-The documentation is fully complete and written in English.
+The program is fully documented in English.
 
 ## License 
 MIT License.
